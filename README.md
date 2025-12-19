@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Madel 👋</h1>
+<h1 align="center">Hi, I'm Mayte 👋</h1>
 
 <p align="center">
   Software Developer with a strong interest in systems programming, backend development, and automation. I enjoy working close to the operating system, writing clean and efficient code, and continuously improving my engineering skills.
@@ -8,17 +8,16 @@
 
 ## 🧑‍💻 About Me
 
-* 🔧 Interested in low-level programming, backend systems, and tooling
-* 🐧 Linux enthusiast (Debian-based environments)
-* 📦 Experience with containers, CI workflows, and version control
-* 📚 Constantly learning and refining fundamentals
+* Interested in low-level programming, backend systems, and tooling
+* Experience with containers, CI workflows, and version control
+* Constantly learning and refining fundamentals
 
 ---
 
 ## 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,go,py,js,ts,linux,debian,docker,git,github,latex,matlab,numpy,css&perline=8" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,py,js,ts,linux,debian,docker,git,github,latex,matlab,css&perline=8" />
 </div>
 
 ---
