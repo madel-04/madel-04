@@ -105,28 +105,15 @@
 ## 📊 Actividad en GitHub
 
 <div align="center">
+	<a width="100%"> 
+	<a href="https://github.com/madel-04"><img alt="Mayte's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=madel-04&show_icons=true&include_all_commits=true&theme=react&bg_color=0D1117&title_color=fff&icon_color=79ff97&hide_border=true" height="192" width="45%"/></a>
+	<a href="https://github.com/madel-04"><img alt="Mayte's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=madel-04&langs_count=8&layout=compact&theme=react&bg_color=0D1117&title_color=fff&icon_color=79ff97&hide_border=true&hide_progress=true" height="192px" width="45%"/></a>
+	</a>
+</div>
+
+<div align="center">
   <img src="https://badge.mediaplus.ma/darkblue/madel-va?1337Badge=off&UM6P=off" alt="madel-va's 42 stats" />
 </div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=madel-04&show_icons=true&count_private=true&include_all_commits=true&theme=dracula&hide_border=true" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=madel-04&layout=compact&theme=dracula&langs_count=8&hide_border=true" alt="Top Languages" height="180" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=madel-04&theme=dracula&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=madel-04&theme=dracula&hide_border=true" alt="Contribution Graph" />
-</div>
-v>
 
 ---
 
