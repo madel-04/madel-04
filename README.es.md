@@ -6,7 +6,7 @@
 <h1 align="center">Hola, soy Mayte! </h1>
 
 <p align="center">
-  Soy una ingeniera de software junior en formación en 42 Madrid, con experiencia práctica adquirida en un entorno de aprendizaje intensivo y basado en proyectos. Actualmente me preparo para incorporarme al sector tecnológico de manera profesional.
+  Soy una ingeniera de software en formación en 42 Madrid, con experiencia práctica adquirida en un entorno de aprendizaje intensivo y basado en proyectos. Actualmente me preparo para incorporarme al sector tecnológico de manera profesional.
 </p>
 
 ---
