@@ -39,28 +39,64 @@
     <th>Repositorio</th>
   </tr>
   <tr>
-    <td>Libft</td>
-    <td>C</td>
-    <td>Implementación personalizada de funciones estándar de la librería C, con foco en la gestión de memoria y la robustez.</td>
-    <td><a href="https://github.com/madel-04/libft">Ver</a></td>
+    <td>ServiceDeskIA</td>
+    <td>JavaScript / Node.js / React / Docker</td>
+    <td>Sistema de gestión de tickets con IA integrada. Stack completo MERN con análisis automático de incidencias mediante inteligencia artificial.</td>
+    <td><a href="https://github.com/madel-04/ServiceDeskIA">Ver</a></td>
   </tr>
   <tr>
     <td>Minishell</td>
     <td>C</td>
-    <td>Shell UNIX mínimo con soporte para pipes, redirecciones, variables de entorno y señales.</td>
+    <td>Shell UNIX mínimo con soporte para pipes, redirecciones, variables de entorno y señales. Implementación desde cero de un intérprete de comandos.</td>
     <td><a href="https://github.com/madel-04/minishell">Ver</a></td>
+  </tr>
+  <tr>
+    <td>ft_irc</td>
+    <td>C++</td>
+    <td>Servidor IRC desde cero siguiendo RFC 1459. Implementación de sockets, comunicación cliente-servidor, gestión de canales y comandos IRC estándar.</td>
+    <td><a href="https://github.com/madel-04/ft_irc">Ver</a></td>
+  </tr>
+  <tr>
+    <td>cub3D</td>
+    <td>C</td>
+    <td>Motor gráfico 3D estilo Wolfenstein usando raycasting. Manejo de texturas, movimiento fluido y renderizado en tiempo real con miniLibX.</td>
+    <td><a href="https://github.com/madel-04/cub3D">Ver</a></td>
+  </tr>
+  <tr>
+    <td>C++ Modules (CPP00-CPP09)</td>
+    <td>C++98</td>
+    <td>Serie de 10 módulos explorando conceptos avanzados de C++: OOP, herencia, polimorfismo, templates, STL, excepciones y patrones de diseño.</td>
+    <td><a href="https://github.com/madel-04">Ver</a></td>
+  </tr>
+  <tr>
+    <td>2048-Game</td>
+    <td>JavaScript / HTML / CSS</td>
+    <td>Implementación del popular juego 2048 con interfaz web interactiva. Lógica de juego, detección de movimientos y sistema de puntuación.</td>
+    <td><a href="https://github.com/madel-04/2048-Game">Ver</a></td>
+  </tr>
+  <tr>
+    <td>PokeAPI</td>
+    <td>Python / FastAPI</td>
+    <td>API REST para consulta de información Pokémon. Integración con APIs externas, procesamiento de datos y endpoints documentados con Swagger.</td>
+    <td><a href="https://github.com/madel-04/PokeAPI">Ver</a></td>
   </tr>
   <tr>
     <td>Philosophers</td>
     <td>C</td>
-    <td>Problema de concurrencia resuelto mediante hilos y mutexes, con énfasis en sincronización y prevención de deadlocks.</td>
+    <td>Problema clásico de concurrencia resuelto mediante hilos y mutexes, con énfasis en sincronización y prevención de deadlocks.</td>
     <td><a href="https://github.com/madel-04/philosophers">Ver</a></td>
   </tr>
   <tr>
-    <td>Servicios Dockerizados</td>
-    <td>Docker / Linux</td>
-    <td>Entornos de desarrollo y servicios contenerizados para flujos de trabajo reproducibles.</td>
-    <td><a href="https://github.com/madel-04">Ver</a></td>
+    <td>Push_swap</td>
+    <td>C</td>
+    <td>Algoritmo de ordenación optimizado con dos pilas y conjunto limitado de operaciones. Implementación de estrategias de sorting eficientes.</td>
+    <td><a href="https://github.com/madel-04/push_swap">Ver</a></td>
+  </tr>
+  <tr>
+    <td>Libft</td>
+    <td>C</td>
+    <td>Implementación personalizada de funciones estándar de la librería C, con foco en la gestión de memoria y la robustez.</td>
+    <td><a href="https://github.com/madel-04/libft">Ver</a></td>
   </tr>
 </table>
 
