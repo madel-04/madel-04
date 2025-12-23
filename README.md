@@ -8,10 +8,10 @@
 
 ## 🧑‍💻 About Me
 
+* Background in software development with C, Git-based workflows, containers, CI workflows, and version control.
 * Experience with containers, CI workflows, and version control
 * Practical knowledge gained through intensive, project-based learning and personal projects, covering the full lifecycle from experimentation to functional implementations.
 * Comfortable working with Python and its data ecosystem, including data processing, basic machine learning, and scripting in Linux environments.
-* Background in software development with C, Git-based workflows, containers, CI workflows, and version control.
 * Constantly learning and refining fundamentals
 
 ---
