@@ -54,7 +54,7 @@
     <td>ft_irc</td>
     <td>C++</td>
     <td>Servidor IRC desde cero siguiendo RFC 1459. Implementación de sockets, comunicación cliente-servidor, gestión de canales y comandos IRC estándar.</td>
-    <td><a href="https://github.com/madel-04/ft_irc">Ver</a></td>
+    <td><a href="https://github.com/guacamoleconqueso/ft_irc">Ver</a></td>
   </tr>
   <tr>
     <td>cub3D</td>
