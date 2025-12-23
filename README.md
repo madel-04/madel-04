@@ -1,15 +1,17 @@
-<h1 align="center">Hi, I'm Mayte 👋</h1>
+<h1 align="center">Hi, I'm Mayte </h1>
 
 <p align="center">
-  Software Developer with a strong interest in systems programming, backend development, and automation. I enjoy working close to the operating system, writing clean and efficient code, and continuously improving my engineering skills.
+  I am a junior software engineer in training at 42 Madrid, with a strong interest in Data Science, Artificial Intelligence, and Software Development. I have hands-on experience through an intensive, project-based learning environment at 42 and through personal projects. I work with in-demand technologies such as Python, data analysis and machine learning libraries, Git, Linux, and low-level programming in C. My GitHub reflects my technical growth, problem-solving mindset, and focus on writing clean, efficient, and scalable code. I am preparing to transition into a professional role within the tech industry.
 </p>
 
 ---
 
 ## 🧑‍💻 About Me
 
-* Interested in low-level programming, backend systems, and tooling
 * Experience with containers, CI workflows, and version control
+* Practical knowledge gained through intensive, project-based learning and personal projects, covering the full lifecycle from experimentation to functional implementations.
+* Comfortable working with Python and its data ecosystem, including data processing, basic machine learning, and scripting in Linux environments.
+* Background in software development with C, Git-based workflows, containers, CI workflows, and version control.
 * Constantly learning and refining fundamentals
 
 ---
@@ -77,7 +79,7 @@
 
 ---
 
-## 📫 Contact
+## Contact
 
 <div align="center">
   <a href="mailto:maydvg04@gmail.com">
