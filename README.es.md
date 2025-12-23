@@ -1,24 +1,25 @@
-<h1 align="center">Hola, soy Madel 👋</h1>
+<h1 align="center">Hola, soy Mayte! </h1>
 
 <p align="center">
-  Desarrollador de software con especial interés en programación de sistemas, backend y automatización. Disfruto trabajar cerca del sistema operativo, escribir código eficiente y mejorar continuamente mis fundamentos técnicos.
+  Soy una ingeniera de software junior en formación en 42 Madrid, con experiencia práctica adquirida en un entorno de aprendizaje intensivo y basado en proyectos. Actualmente me preparo para incorporarme al sector tecnológico de manera profesional.
 </p>
 
 ---
 
 ## 🧑‍💻 Sobre mí
 
-* 🔧 Interés en programación de bajo nivel, sistemas backend y herramientas
-* 🐧 Usuario habitual de Linux (entornos basados en Debian)
-* 📦 Experiencia con contenedores, flujos CI y control de versiones
-* 📚 Aprendizaje continuo y enfoque en buenas prácticas
+* Base en desarrollo de software con C, flujos de trabajo con Git, contenedores, CI y control de versiones
+* Experiencia con contenedores, flujos de CI y control de versiones
+* Conocimientos prácticos adquiridos mediante aprendizaje intensivo basado en proyectos y proyectos personales, abarcando todo el ciclo de vida desde la experimentación hasta implementaciones funcionales
+* Comodidad trabajando con Python y su ecosistema de datos, incluyendo procesamiento de datos, machine learning básico y scripting en entornos Linux
+* Aprendizaje continuo y refuerzo constante de los fundamentos
 
 ---
 
 ## 🛠️ Tecnologías
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,go,py,js,ts,linux,debian,docker,git,github,latex,matlab,numpy,css&perline=8" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,py,js,ts,linux,debian,docker,git,github,latex,matlab,css&perline=8" />
 </div>
 
 ---
@@ -35,25 +36,25 @@
   <tr>
     <td>Libft</td>
     <td>C</td>
-    <td>Implementación personalizada de funciones estándar de C, enfocada en gestión de memoria y robustez.</td>
+    <td>Implementación personalizada de funciones estándar de la librería C, con foco en la gestión de memoria y la robustez.</td>
     <td><a href="https://github.com/madel-04/libft">Ver</a></td>
   </tr>
   <tr>
     <td>Minishell</td>
     <td>C</td>
-    <td>Shell UNIX mínima con soporte de pipes, redirecciones, variables de entorno y señales.</td>
+    <td>Shell UNIX mínimo con soporte para pipes, redirecciones, variables de entorno y señales.</td>
     <td><a href="https://github.com/madel-04/minishell">Ver</a></td>
   </tr>
   <tr>
     <td>Philosophers</td>
     <td>C</td>
-    <td>Resolución de un problema clásico de concurrencia usando hilos y mutexes.</td>
+    <td>Problema de concurrencia resuelto mediante hilos y mutexes, con énfasis en sincronización y prevención de deadlocks.</td>
     <td><a href="https://github.com/madel-04/philosophers">Ver</a></td>
   </tr>
   <tr>
     <td>Servicios Dockerizados</td>
     <td>Docker / Linux</td>
-    <td>Entornos y servicios contenerizados para flujos de trabajo reproducibles.</td>
+    <td>Entornos de desarrollo y servicios contenerizados para flujos de trabajo reproducibles.</td>
     <td><a href="https://github.com/madel-04">Ver</a></td>
   </tr>
 </table>
@@ -78,7 +79,7 @@
 
 ---
 
-## 📫 Contacto
+## Contacto
 
 <div align="center">
   <a href="mailto:maydvg04@gmail.com">
@@ -93,5 +94,5 @@
 
 <p align="right">
   <strong>🌐 Idioma:</strong><br>
-  <a href="/README.md">English</a>
+  <a href="/README.es.md">Español</a>
 </p>
