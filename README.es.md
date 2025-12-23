@@ -108,18 +108,25 @@
   <img src="https://badge.mediaplus.ma/darkblue/madel-va?1337Badge=off&UM6P=off" alt="madel-va's 42 stats" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=madel-04&show_icons=true&count_private=true&include_all_commits=true&theme=dracula" height="150" />
-</div>
+<br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=madel-04&layout=compact&theme=dracula" height="150" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=madel-04&show_icons=true&count_private=true&include_all_commits=true&theme=dracula&hide_border=true" alt="GitHub Stats" height="180" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=madel-04&layout=compact&theme=dracula&langs_count=8&hide_border=true" alt="Top Languages" height="180" />
 </div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/madel-04/madel-04/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/madel-04/madel-04/output/pacman-contribution-graph.svg">
-</picture>
+<br>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=madel-04&theme=dracula&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=madel-04&theme=dracula&hide_border=true" alt="Contribution Graph" />
+</div>
+v>
 
 ---
 
