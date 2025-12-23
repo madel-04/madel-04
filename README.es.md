@@ -105,6 +105,10 @@
 ## 📊 Actividad en GitHub
 
 <div align="center">
+  <img src="https://badge.mediaplus.ma/darkblue/madel-va?1337Badge=off&UM6P=off" alt="madel-va's 42 stats" />
+</div>
+
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=madel-04&show_icons=true&count_private=true&include_all_commits=true&theme=dracula" height="150" />
 </div>
 
