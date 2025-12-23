@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Mayte </h1>
 
 <p align="center">
-  I am a junior software engineer in training at 42 Madrid, with a strong interest in Data Science, Artificial Intelligence, and Software Development. I have hands-on experience through an intensive, project-based learning environment at 42 and through personal projects. I work with in-demand technologies such as Python, data analysis and machine learning libraries, Git, Linux, and low-level programming in C. My GitHub reflects my technical growth, problem-solving mindset, and focus on writing clean, efficient, and scalable code. I am preparing to transition into a professional role within the tech industry.
+  I am a junior software engineer in training at 42 Madrid, with hands-on experience gained through an intensive, project-based learning environment. Preparing to transition into a professional role within the tech industry.
 </p>
 
 ---
