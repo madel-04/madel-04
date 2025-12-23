@@ -1,3 +1,8 @@
+<p align="right">
+  <strong>🌐 Idioma:</strong><br>
+  <a href="/README.md">English</a>
+</p>
+
 <h1 align="center">Hola, soy Mayte! </h1>
 
 <p align="center">
@@ -74,7 +79,6 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/madel-04/madel-04/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/madel-04/madel-04/output/pacman-contribution-graph.svg">
-  <img alt="Gráfico de contribuciones" src="https://raw.githubusercontent.com/madel-04/madel-04/output/pacman-contribution-graph.svg">
 </picture>
 
 ---
@@ -89,10 +93,3 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" />
   </a>
 </div>
-
----
-
-<p align="right">
-  <strong>🌐 Idioma:</strong><br>
-  <a href="/README.es.md">Español</a>
-</p>
