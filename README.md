@@ -6,7 +6,7 @@
 <h1 align="center">Hi, I'm Mayte </h1>
 
 <p align="center">
-  I am a software engineer in training at 42 Madrid, with hands-on experience gained through an intensive, project-based learning environment. Preparing to transition into a professional role within the tech industry.
+  I am a software engineer at 42 Madrid, with hands-on experience gained through an intensive, project-based learning environment. Preparing to transition into a professional role within the tech industry.
 </p>
 
 ---
